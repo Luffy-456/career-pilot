@@ -2,7 +2,7 @@ name: CareerPilot CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "feature/ci-pipeline" ]
   pull_request:
     branches: [ "main" ]
 
